@@ -24,4 +24,4 @@ requires:
   perl: 0
 resources:
   repository: https://github.com/Shemahmforash/xml-gsa
-version: 0.05
+version: 0.06
